@@ -1,6 +1,6 @@
 // This prgram takes a sentence and capitalize each word in a sentence. 
 
-public class UpperCase {   // Save as "Hello.java" under "d:\myProject"
+public class UpperCase {   
    public static void main(String[] args) {
 
       System.out.println(toUpperCaseSentence("test string needs to be uppercased on each"));
